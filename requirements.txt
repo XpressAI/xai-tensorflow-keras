@@ -1,7 +1,9 @@
 zipp==3.21.0
 markdown-it-py==3.0.0
 mdurl==0.1.2
+pygments==2.18.0
 typing-extensions==4.12.2
+markupsafe==2.1.5
 six==1.17.0
 absl-py==2.1.0
 h5py==3.12.1
@@ -9,11 +11,12 @@ numpy==1.26.4
 ml-dtypes==0.4.1
 namex==0.0.8
 optree==0.13.1
-packaging==24.2
+packaging==23.2
 certifi==2024.12.14
 charset-normalizer==3.4.0
 idna==3.10
 grpcio==1.68.1
+markdown==3.7
 importlib-metadata==8.5.0
 protobuf==3.20.3
 tensorboard-data-server==0.7.2
@@ -26,11 +29,12 @@ keras==3.7.0
 rich==13.9.4
 libclang==18.1.1
 opt-einsum==3.4.0
-requests==2.32.3
+requests==2.31.0
 urllib3==2.2.3
 tensorboard==2.17.1
+werkzeug==3.0.6
 tensorflow-io-gcs-filesystem==0.31.0
-termcolor==2.5.0
+termcolor==2.4.0
 wrapt==1.17.0
 joblib==1.4.2
 scipy==1.11.4
@@ -41,7 +45,7 @@ click==8.1.7
 colorama==0.4.6
 dm-tree==0.1.8
 promise==2.3
-psutil==6.1.0
+psutil==5.9.8
 tensorflow-metadata==1.16.1
 toml==0.10.2
 tqdm==4.67.1
