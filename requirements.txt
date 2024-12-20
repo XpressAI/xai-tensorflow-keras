@@ -1,4 +1,4 @@
- fsspec==2024.10.0
+fsspec==2024.10.0
 importlib-resources==6.4.5
 opencv-python==4.10.0.84
 pillow==10.4.0
